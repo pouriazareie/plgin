@@ -1,0 +1,2 @@
+# plgin
+mihanchat-plugin
